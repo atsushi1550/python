@@ -1,4 +1,4 @@
 python
 ======
 
-python Sample Project
+python Sample Project For Mac OSX
